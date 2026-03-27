@@ -1,4 +1,4 @@
-# Open Source Audit Project
+# Open Source Software Audit Project
 ---
 ## Student Details
 * **Name:** Priyanjal Rathore
